@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// adding comments to this to test and learn some git stuff
 public class NaughtsAndCrosses{
 
   private static Board board;
